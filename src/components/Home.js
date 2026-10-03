@@ -165,7 +165,7 @@ function Home() {
           "@id": `${SITE_URL}/#organization`,
           name: "The Viceroy Collection",
           url: `${SITE_URL}/`,
-          telephone: "+1-773-991-9360",
+          telephone: "+1-224-390-9829",
           logo: `${SITE_URL}/images/logo.png`,
           description: PAGE_DESCRIPTION,
         },

@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { Helmet } from "react-helmet-async";
 
-const WHATSAPP_NUMBER = "17739919360";
+const WHATSAPP_NUMBER = "12243909829";
 
 const SITE_URL = "https://www.theviceroycollection.com";
 const PAGE_URL = `${SITE_URL}/our-collections`;
@@ -425,10 +425,10 @@ Thank you.`
             name: "The Viceroy Collection",
             logo: LOGO_URL,
             url: SITE_URL,
-            telephone: "+1-773-991-9360",
+            telephone: "+1-224-390-9829",
             contactPoint: {
               "@type": "ContactPoint",
-              telephone: "+1-773-991-9360",
+              telephone: "+1-224-390-9829",
               contactType: "customer service",
             },
           })}
