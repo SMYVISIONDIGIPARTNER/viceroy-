@@ -593,7 +593,7 @@ function Home() {
         <section className="vc-explore">
 
           <img
-            src="/images/image-34.webp"
+            src="/images/hero.webp"
             alt="Explore handcrafted teak, rosewood and solid wood collections by The Viceroy Collection"
             title="Explore The Viceroy Collection"
             loading="lazy"
