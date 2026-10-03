@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 
-const WHATSAPP_NUMBER = "17739919360";
+const WHATSAPP_NUMBER = "12243909829";
 
 /* SEO + GEO (Generative Engine Optimization) */
 const SITE_URL = "https://www.theviceroycollection.com";

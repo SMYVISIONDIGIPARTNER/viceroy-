@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 
-const WHATSAPP_NUMBER = "17739919360";
+const WHATSAPP_NUMBER = "12243909829";
 
 const FALLBACK_HERO =
   "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1900&q=90";
